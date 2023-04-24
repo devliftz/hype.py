@@ -1,14 +1,15 @@
 from setuptools import setup
 
 packages = [
-    'hype'
+    'hype',
+    'hype.ext'
 ]
 
 setup(
     name='hype.py',
     author='nap',
     url='https://github.com/devliftz/',
-    version=1.2,
+    version=1.3,
     packages=packages,
     license='MIT',
     description='Hypecord',
