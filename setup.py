@@ -8,7 +8,7 @@ setup(
     name='hype.py',
     author='nap',
     url='https://github.com/devliftz/',
-    version=1.0,
+    version=1.2,
     packages=packages,
     license='MIT',
     description='Hypecord',
