@@ -1,8 +1,7 @@
 from setuptools import setup
 
 packages = [
-    'hype',
-    'hype.console'
+    'hype'
 ]
 
 setup(
