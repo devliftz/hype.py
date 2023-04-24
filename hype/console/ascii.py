@@ -3,7 +3,7 @@ def logo():
 
 \033[1m\033[31moooo                                                                         \033[0m\033[1m光 3.2.1.dev
 \033[1m\033[31m`888                                                                         \033[0m\033[1m© 2023 DevLift - MIT License
-\033[1m\033[32m 888 .oo.   oooo    ooo oo.ooooo.   .ooooo.      oo.ooooo.  oooo    ooo 
+\033[1m\033[32m 888 .oo.   oooo    ooo oo.ooooo.   .ooooo.      oo.ooooo.  oooo    ooo      
 \033[1m\033[32m 888P"Y88b   `88.  .8'   888' `88b d88' `88b      888' `88b  `88.  .8'  
 \033[1m\033[33m 888   888    `88..8'    888   888 888ooo888      888   888   `88..8'   
 \033[1m\033[33m 888   888     `888'     888   888 888    .o .o.  888   888    `888'    
